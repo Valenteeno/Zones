@@ -1,0 +1,6 @@
+# Compiled binaries / logs / terminal artifacts
+*.ex4
+*.ex5
+*.log
+*.tmp
+*.bak
